@@ -1,7 +1,5 @@
 # OptionPricingToolbox
 
-```markdown
-
 OptionPricingToolbox is a comprehensive Python library designed for financial analysts, quantitative researchers, and students interested in the valuation of financial options. This toolbox offers robust implementations of several option pricing models, including Black-Scholes, Monte Carlo simulations, and Binomial Trees, each capable of handling different types of options like European, Asian, American, Barrier, and Lookback options.
 
 ## Features
