@@ -51,5 +51,5 @@ Contributions are welcome! To contribute to this project, please fork the reposi
 
 ## References
 
-- "Options, Futures, and Other Derivatives" by John C. Hull - A foundational text offering detailed explanations of the mechanics behind the pricing of derivatives.
-- "The Concepts and Practice of Mathematical Finance" by Mark S. Joshi - An excellent resource for understanding complex financial models.
+- "Options, Futures, and Other Derivatives" by John C. Hull
+- "The Concepts and Practice of Mathematical Finance" by Mark S. Joshi
